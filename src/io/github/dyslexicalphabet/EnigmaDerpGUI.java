@@ -121,7 +121,7 @@ public class EnigmaDerpGUI {
         eDGUI.add(decryptedMessage);
         decryptedMessage.setVisible(false);
         /***********************************************************************************************************
-         * eDGUI Listener
+         *Action Listeners
          ***********************************************************************************************************/
         encryptButton.addActionListener(new ActionListener() {
             @Override
